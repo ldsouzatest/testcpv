@@ -12,7 +12,7 @@ public class App
         System.out.println("Hola hola");
     }
     
-    public String returnHello() {
-        return "Hello";
+    public String returnHelloTest() {
+        return "HelloTest";
     }
 }
