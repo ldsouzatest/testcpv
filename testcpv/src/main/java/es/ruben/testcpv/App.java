@@ -13,6 +13,6 @@ public class App
     }
     
     public String returnHello() {
-        return "Hello1";
+        return "Hello";
     }
 }
