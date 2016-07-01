@@ -1,8 +1,4 @@
 language: java
 script: cd testcpv && mvn clean test jacoco:report coveralls:report
 
-install:
-    pip install codecov
-after_success:
-    codecov
-sudo: false
+
