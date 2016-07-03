@@ -1,7 +1,7 @@
 package es.ruben.testcpv;
 
 /**
- * Hello world!
+ * Hello world
  *
  */
 public class App 
